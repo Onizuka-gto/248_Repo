@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Who am I
 
 * Where are you from?
@@ -14,3 +15,11 @@
 * Which industry will you seek employment in?
 * What will your future role look like?
 * What is your career goal?
+=======
+Hello
+my name is 
+yani 
+and you ?
+Me it's clara
+nice to meet you
+>>>>>>> f3f6854ea4001d1ea243429ddb1b53074b014f2d
